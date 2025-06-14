@@ -7,16 +7,16 @@ A basic e-commerce web application built using **Java (JSP + Servlets)** that de
 ## 📸 Screenshots
 
 ### 🏠 Home Page (Product Listing)
-![Home Page](./home.png)
+![Home Page](https://github.com/satyabharat1207/Shopping_Cart/blob/main/shopping_cart/screenshots/home.png)
 
 ### 🔐 Login Page
-![Login Page](./login.png)
+![Login Page](https://github.com/satyabharat1207/Shopping_Cart/blob/main/shopping_cart/screenshots/home.png)
 
 ### 🛍️ Cart Page
-![Cart Page](./cart.png)
+![Cart Page](https://github.com/satyabharat1207/Shopping_Cart/blob/main/shopping_cart/screenshots/cart.png)
 
 ### 📦 Orders Page
-![Orders Page](./odered.png)
+![Orders Page](https://github.com/satyabharat1207/Shopping_Cart/blob/main/shopping_cart/screenshots/odered.png)
 
 ---
 
