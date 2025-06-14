@@ -57,7 +57,7 @@ Orders placed can be canceled from the orders page.
 
 ## 🚀 How to Run
 
-1. Clone this repository or [Download ZIP](https://github.com/your-username/your-repo-name)
+1. Clone this repository or [Download ZIP](https://github.com/satyabharat1207/Shopping_Cart)
 2. Import into **Eclipse** as a **Dynamic Web Project**
 3. Configure your **Apache Tomcat server** in Eclipse
 4. Run the project on server (`Right-click > Run As > Run on Server`)
